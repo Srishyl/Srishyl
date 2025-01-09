@@ -1,12 +1,12 @@
-# Hi there, I'm [Srishyla Kumar] 👋  
+# Hi there, I'm Srishyla Kumar 👋  
 
 Welcome to my GitHub profile!   
 
 ---
 
 ## 🛠️ About Me  
-- 🔭 Currently working on: [Women Screaming Detector]  
-- 🌱 Learning: [CSS,JavaScript]  
+- 🔭 Currently working on: Women Screaming Detector  
+- 🌱 Learning: CSS,JavaScript 
  
 
 ---
