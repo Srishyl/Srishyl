@@ -9,7 +9,6 @@ Welcome to my GitHub profile!
 ---
 
 ## 🛠️ About Me  
-- 🔭 Currently working on: Women Screaming Detector  
 - 🌱 Learning: App Development  
 
 ---
