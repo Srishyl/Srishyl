@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 
 ##
-<img src="https://github.com/user-attachments/assets/95da0e08-0141-4aea-a149-d97cca031981" width="200" alt="Image">
+<img src="https://github.com/user-attachments/assets/95da0e08-0141-4aea-a149-d97cca031981" width="100" alt="Image">
 
 
 
