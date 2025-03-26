@@ -23,14 +23,6 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
 </p>  
 
-## Let's Connect
-- LinkedIn
-<style>
-  .small-qr {
-   ![qrcode](https://github.com/user-attachments/assets/51b454ac-b2ee-4fe2-8c79-6b8ae2bc4852)
-    width: 150px;
-    height: 150px;
-  }
-</style>
+
   
 
