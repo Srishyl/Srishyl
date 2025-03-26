@@ -25,5 +25,12 @@ Welcome to my GitHub profile!
 
 ## Let's Connect
 - LinkedIn
-  ![qrcode](https://github.com/user-attachments/assets/51b454ac-b2ee-4fe2-8c79-6b8ae2bc4852)
+<style>
+  .small-qr {
+   ![qrcode](https://github.com/user-attachments/assets/51b454ac-b2ee-4fe2-8c79-6b8ae2bc4852)
+    width: 150px;
+    height: 150px;
+  }
+</style>
+  
 
