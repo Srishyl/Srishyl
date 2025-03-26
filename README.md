@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 </p>  
 
 
-##
+## Connect through LinkedIn
 <img src="https://github.com/user-attachments/assets/95da0e08-0141-4aea-a149-d97cca031981" width="100" alt="Image">
 
 
