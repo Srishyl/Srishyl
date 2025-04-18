@@ -1,5 +1,3 @@
- 
-
 ---
 
 # Hi there, I'm Srishyla Kumar! 👋  
@@ -20,14 +18,11 @@ Welcome to my GitHub profile!
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
 </p>  
 
+---
 
-## Connect through LinkedIn
+## Connect through LinkedIn  
 <img src="https://github.com/user-attachments/assets/95da0e08-0141-4aea-a149-d97cca031981" width="100" alt="Image">
-
-
-
-  
-
